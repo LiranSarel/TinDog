@@ -185,4 +185,9 @@ p {
     .testimonial-image {
       width: 30%;
     }
+   .testimonial-text {
+     font-size: 3rem;
+  }
 }
+
+
