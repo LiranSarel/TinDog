@@ -41,7 +41,7 @@ p {
   font-family: "Montserrat";
   font-weight: 900;
   line-height: 1.5;
-  font-size: 3rem;
+  font-size: 4rem;
 }
 
 
@@ -115,7 +115,7 @@ p {
 }
 
 .testimonial-text {
-  font-size: 3.33rem;
+  font-size: 3.7rem;
   line-height: 1.5;
 }
 
@@ -155,7 +155,7 @@ p {
 /* Call to Action Section */
 
 .cta-h3 {
-  font-size: 3.3rem;
+  font-size: 4rem;
   line-height: 1.5;
 
 }
